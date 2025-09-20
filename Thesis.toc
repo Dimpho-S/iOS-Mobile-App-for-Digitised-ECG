@@ -1,0 +1,75 @@
+\contentsline {chapter}{Abstract}{i}{section*.1}%
+\contentsline {chapter}{Acknowledgments}{ii}{section*.3}%
+\contentsline {chapter}{Plagiarism Declaration}{iii}{section*.5}%
+\contentsline {chapter}{Table of Contents}{iv}{figure.caption.7}%
+\contentsline {chapter}{List of Figures}{vii}{section*.8}%
+\contentsline {chapter}{List of Tables}{viii}{section*.9}%
+\contentsline {chapter}{Nomenclature}{ix}{section*.10}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objectives}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Scope and Limitations}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Thesis Outline}{4}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Literature Review}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}ECG Fundamentals}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}ECG Signal Generation}{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}ECG Waveform Formation}{8}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}ECG leads}{9}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Traditional ECG Digitisation Methods}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Smartphone-based ECG Capturing}{11}{section.2.4}%
+\contentsline {section}{\numberline {2.5}ECG Digitisation from Images}{12}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Image Pre-processing}{12}{subsection.2.5.1}%
+\contentsline {subsubsection}{De-warping and Perspective Correction}{12}{section*.13}%
+\contentsline {subsubsection}{Noise Reduction}{13}{section*.14}%
+\contentsline {subsubsection}{Artifact Removal and Enhancement}{15}{section*.15}%
+\contentsline {subsection}{\numberline {2.5.2}Grid Detection and Extraction or Grid Removal and Scaling}{17}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Signal Detection and Extraction}{18}{subsection.2.5.3}%
+\contentsline {subsubsection}{Lead Segmentation}{18}{section*.16}%
+\contentsline {subsubsection}{Signal Extraction}{18}{section*.17}%
+\contentsline {section}{\numberline {2.6}Conclusion}{19}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Methodology}{20}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Overview of Approach}{20}{section.3.1}%
+\contentsline {section}{\numberline {3.2}System Requirements and Specifications}{22}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Functional User Requirements}{23}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Non-Functional User Requirements}{23}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Tools and Technology Stack}{24}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Development Tools and Specifications}{24}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Technology Stack}{25}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Image Processing Model}{28}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Design and Prototyping}{29}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Wireframes}{29}{subsection.3.5.1}%
+\contentsline {subsubsection}{Home / Dashboard Wireframe}{29}{section*.22}%
+\contentsline {subsubsection}{Image Pre-processing Screen Wireframe}{29}{section*.23}%
+\contentsline {subsubsection}{Signal Extraction Screen Wireframe}{30}{section*.24}%
+\contentsline {subsubsection}{Signal Reconstruction \& Visualisation Wireframe}{30}{section*.25}%
+\contentsline {subsubsection}{Export / Results Screen Wireframe}{31}{section*.26}%
+\contentsline {subsection}{\numberline {3.5.2}Iterations}{31}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}User Flow}{31}{subsection.3.5.3}%
+\contentsline {subsubsection}{Home Screen}{31}{section*.27}%
+\contentsline {subsubsection}{Pre-processing Screen}{32}{section*.28}%
+\contentsline {subsubsection}{Signal Extraction Screen}{32}{section*.29}%
+\contentsline {subsubsection}{Signal Reconstruction \& Visualisation}{32}{section*.30}%
+\contentsline {subsubsection}{Export Screen}{33}{section*.31}%
+\contentsline {section}{\numberline {3.6}Validation, Benchmarking, and Optimisation}{33}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Evaluation}{33}{section.3.7}%
+\contentsline {chapter}{\numberline {4}Design}{34}{chapter.4}%
+\contentsline {section}{\numberline {4.1}System Design}{35}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Hardware Design}{36}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Software Design}{37}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Implementation}{38}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Integration or Test Rig}{39}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Results}{40}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Results}{40}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Tips for Results Figures}{41}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Pictures and screenshots}{42}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Conclusions}{44}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Conclusions}{44}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Future Work}{44}{section.6.2}%
+\contentsline {chapter}{Bibliography}{45}{section*.37}%
+\renewcommand *\cftchappresnum {Appendix }
+\contentsline {chapter}{\numberline {A}Supporting Data}{51}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Lyrics to Soft Kitty}{51}{section.A.1}%
+\renewcommand *\cftchappresnum {Appendix }
+\contentsline {chapter}{\numberline {B}Satirical Support}{52}{appendix.B}%

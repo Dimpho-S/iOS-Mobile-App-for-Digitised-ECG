@@ -1,0 +1,60 @@
+% Chapter 1 - Introduction
+
+\glsresetall % reset the glossary to expand acronyms again
+\chapter[Introduction]{Introduction}\label{ch:Introduction}
+\index{Introduction}
+
+Electrocardiograms are one of the first tests conducted when one is admitted to the hospital. They provide a wealth of information on the health of a patient. However, they continue to be produced in paper format. This means they must be stored for longevity in large storage rooms
+
+\section{Background}
+% Should there be a motivation? A quote? 
+An electrocardiogram \gls{ECG} is a technology that both measures and records the electrical signal patterns describing the rhythmic activity of the heart. These electrical pulses are what signal the heart's skeletal muscles to undergo ventricular contraction \cite{AlGhatrif2012}. Irregularities from the expected patterns provide a wealth of information on the patient's condition.
+
+Clinically, two ECG systems are in use: paper-recorded and computer-based. Paper ECGs remain the foundational format and are routinely requested as an initial diagnostic test \cite{AlGhatrif2012}. Computer-based ECGs, first introduced in the 1960s \cite{Medved2020CriticalAO}, aimed to reduce the dependency on specialist interpretation, but continue to face issues of diagnostic reliability and digital record management \cite{Heaney2022InternetOT}. Furthermore, due to significant technological and logistic barriers associated with accessibility and cost, the widespread adoption of these systems has been limited \cite{Rubbo2015UseOE}\cite{Qiu2023AutomatedCR}. Therefore, paper ECGs remain widely produced. However, their physical form presents a persistent limitation: secure and accessible storage for later interpretation. Addressing this challenge motivates the digitisation of paper ECGs into formats that can be efficiently stored and accessed, especially for the long-term treatment of cardiac patients \cite{Ravichandran2013NovelTF}.
+
+Manual digitisation, which involves manually scanning or transcribing paper ECG tracings into digital systems, is a popular solution to this issue.  Although this technique eventually makes it possible to save ECGs in electronically, it is expensive, time-consuming, and prone to errors, especially in environments with lots of patients \cite{Eapen2016MobileHealthCardioEHR}. % These drawbacks significantly limit its practicality as a long-term solution
+
+Recent developments in mobile health technologies suggest a potential pathway to address this limitation. Smartphones, with their widespread availability and camera facilities, enable paper ECGs to be captured, digitised, and stored within mobile applications \cite{MartinezPerez2013MobileAppsCardiology}\cite{Wu2022FullyAutomatedECGDigitisation}. This strategy creates a way to bridge the gap between affordable availability to digital ECG formats and possibly addressing the storage problem \cite{Liu2020MobileCloudECGExtraction}. Mobile platforms can enhance patient record management and continuity of treatment by enabling the direct archiving and retrieval of ECG information on portable devices. However, while promising, these developments also highlight the need to explore how paper-recorded ECGs can be reliably digitised and integrated into mobile-accessible formats.
+
+
+\section{Problem Statement}
+
+The digitisation of paper-based electrocardiograms continues to present a challenge, as reliance on physical records causes inefficiencies in storage, retrieval, and long-term accessibility \cite{MartinezPerez2013MobileAppsCardiology,Steinhubl2013CanMHealth}. Despite being widespread, manual digitisation is expensive, inefficient, and prone to errors \cite{Eapen2016MobileHealthCardioEHR} and existing mobile scanning tools are not designed for ECG waveforms, leading to distortion, misalignment, and loss of signal fidelity \cite{McConnell2018CardioMHealthReview}. Current methods are inadequate for efficiently converting paper ECGs into accurate, analysis-ready digital formats, highlighting the need for reliable, mobile-accessible digitisation solutions.
+
+
+\section{Objectives}
+These objectives guide the progression of the research, ensuring that the work done is centred on the problem statement. The following will be objectives will be explored throughout the report: 
+\begin{enumerate}
+    \item Review literature on ECG signal structure, interpretation, and digitisation techniques.
+    \item Investigate existing image processing and signal processing methods for waveform extraction from photographs.
+    \item Design and develop a mobile application (Android or iOS) for accurate ECG strip digitisation.
+    \item Implement algorithms for noise reduction, de-warping, filtering, and artifact removal.
+    \item Store processed ECG signals in a standardised digital format.
+    \item Test and evaluate the accuracy and usability of the developed application.
+\end{enumerate}
+
+\section{Scope and Limitations}
+
+\textbf{Scope:}
+\begin{itemize}
+    \item Mobile application development for Android/iOS.
+    \item Image capture, processing, and signal extraction for standard ECG paper strips.
+    \item Local storage of digitised ECG in standard digital formats.
+\end{itemize}
+
+\textbf{Limitations:}
+\begin{itemize}
+    \item No integration with electronic health record (EHR) systems in this phase.
+    \item Limited dataset for testing.
+    \item Optimised for standard-format single-lead or multi-lead strips.
+    \item No integration of deep-learning analysis and diagnosis of digitised data 
+\end{itemize}
+
+\section{Thesis Outline}
+\begin{itemize}
+    \item \textbf{Chapter 2}: Literature Review --- ECG basics, digitisation methods, and relevant image/signal processing techniques.
+    \item \textbf{Chapter 3}: Methodology and Design --- approach, algorithms, and system architecture.
+    \item \textbf{Chapter 4}: Implementation --- development process and app features.
+    \item \textbf{Chapter 5}: Results and Discussion --- evaluation and performance.
+    \item \textbf{Chapter 6}: Conclusion --- summary of findings and future work.
+\end{itemize}
