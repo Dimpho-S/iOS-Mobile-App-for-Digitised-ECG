@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.14)  16 SEP 2025 08:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.14)  21 SEP 2025 09:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1739,7 +1739,7 @@ Package translations Info: loading dictionary `translations-basic-dictionary' fo
 
 Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 26.
 
-<2_Preface/UCT_Circular.pdf, id=238, 128.55975pt x 130.49915pt>
+<2_Preface/UCT_Circular.pdf, id=266, 128.55975pt x 130.49915pt>
 File: 2_Preface/UCT_Circular.pdf Graphic file (type pdf)
 <use 2_Preface/UCT_Circular.pdf>
 Package pdftex.def Info: 2_Preface/UCT_Circular.pdf  used on input line 43.
@@ -1914,7 +1914,7 @@ Package pdftex.def Info: 2_Preface/UCT_Circular.pdf  used on input line 43.
 \openout2 = `2_Preface/2_PlagiarismDeclaration.aux'.
 
  (2_Preface/2_PlagiarismDeclaration.tex
-<2_Preface/DS-signature.jpg, id=259, 578.16pt x 503.8825pt>
+<2_Preface/DS-signature.jpg, id=287, 578.16pt x 503.8825pt>
 File: 2_Preface/DS-signature.jpg Graphic file (type jpg)
 <use 2_Preface/DS-signature.jpg>
 Package pdftex.def Info: 2_Preface/DS-signature.jpg  used on input line 13.
@@ -1953,6 +1953,106 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  (1_Glossaries/Glossary.tex
 \@gls@deffile=\write138
 \openout3 = `Thesis.glsdefs'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
 
 \openout3 = `Thesis.mw'.
 
@@ -2869,7 +2969,7 @@ Chapter 1.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.12 
+l.14 
      
 \openout3 = `Thesis.mw'.
 
@@ -2910,10 +3010,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [2] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
 
 
 
@@ -2926,6 +3022,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout3 = `Thesis.mw'.
 
 [3] (Thesis.mw)
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
 \openout3 = `Thesis.mw'.
 
 \openout3 = `Thesis.mw'.
@@ -3022,7 +3122,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout3 = `Thesis.mw'.
 
-<3_Chapters/2_Chapter_LiteratureReview/Figures/PQRST_complex.jpg, id=459, 737.75626pt x 886.31125pt>
+<3_Chapters/2_Chapter_LiteratureReview/Figures/PQRST_complex.jpg, id=499, 737.75626pt x 886.31125pt>
 File: 3_Chapters/2_Chapter_LiteratureReview/Figures/PQRST_complex.jpg Graphic file (type jpg)
 <use 3_Chapters/2_Chapter_LiteratureReview/Figures/PQRST_complex.jpg>
 Package pdftex.def Info: 3_Chapters/2_Chapter_LiteratureReview/Figures/PQRST_complex.jpg  used on input line 44.
@@ -3065,10 +3165,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
-LaTeX Warning: Citation `Tun2017' on page 10 undefined on input line 69.
-
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3079,6 +3175,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout3 = `Thesis.mw'.
 
 [10] (Thesis.mw)
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
 \openout3 = `Thesis.mw'.
 
 \openout3 = `Thesis.mw'.
@@ -3103,10 +3203,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout3 = `Thesis.mw'.
 
+\openout3 = `Thesis.mw'.
 
-Overfull \hbox (3.9544pt too wide) in paragraph at lines 94--95
-\OT1/cmr/m/n/12 u-lar grid struc-ture typ-i-cally present in ECG re-ports. It de-tects straight lines|whether
- []
+\openout3 = `Thesis.mw'.
 
 
 
@@ -3130,6 +3229,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout3 = `Thesis.mw'.
 
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
 
 
 
@@ -3142,6 +3249,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout3 = `Thesis.mw'.
 
 [13] (Thesis.mw)
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
 \openout3 = `Thesis.mw'.
 
 
@@ -3172,55 +3287,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [15] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-\openout3 = `Thesis.mw'.
-
-[16] (Thesis.mw)
-\openout3 = `Thesis.mw'.
-
-
-Overfull \hbox (11.28386pt too wide) in paragraph at lines 139--140
-[]\OT1/cmr/m/n/12 Grid re-moval is per-formed by global grayscale-to-binary con-ver-sion (im2bw/graythresh)
- []
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-\openout3 = `Thesis.mw'.
-
-[17] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
 \openout3 = `Thesis.mw'.
 
 \openout3 = `Thesis.mw'.
 
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+\openout3 = `Thesis.mw'.
 
 \openout3 = `Thesis.mw'.
 
-[18] (Thesis.mw)
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
 \openout3 = `Thesis.mw'.
 
 \openout3 = `Thesis.mw'.
@@ -3238,11 +3318,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout3 = `Thesis.mw'.
 
-[19] (Thesis.mw)
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
+[16] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
 \openout2 = `3_Chapters/3_Chapter_Methodology/Methodology.aux'.
@@ -3253,7 +3329,7 @@ Chapter 3.
 
 \openout3 = `Thesis.mw'.
 
-[20
+[17
 
 
 
@@ -3273,7 +3349,7 @@ Chapter 3.
 
 \openout3 = `Thesis.mw'.
 
-<3_Chapters/3_Chapter_Methodology/Figures/Spiral Model.png, id=548, 1027.84pt x 1027.84pt>
+<3_Chapters/3_Chapter_Methodology/Figures/Spiral Model.png, id=571, 1027.84pt x 1027.84pt>
 File: 3_Chapters/3_Chapter_Methodology/Figures/Spiral Model.png Graphic file (type png)
 <use 3_Chapters/3_Chapter_Methodology/Figures/Spiral Model.png>
 Package pdftex.def Info: 3_Chapters/3_Chapter_Methodology/Figures/Spiral Model.png  used on input line 20.
@@ -3289,7 +3365,69 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout3 = `Thesis.mw'.
 
-[21 <./3_Chapters/3_Chapter_Methodology/Figures/Spiral Model.png (PNG copy)>] (Thesis.mw)
+[18 <./3_Chapters/3_Chapter_Methodology/Figures/Spiral Model.png (PNG copy)>] (Thesis.mw)
+\openout3 = `Thesis.mw'.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout3 = `Thesis.mw'.
+
+[19] (Thesis.mw)
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout3 = `Thesis.mw'.
+
+[20] (Thesis.mw)
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout3 = `Thesis.mw'.
+
+[21] (Thesis.mw)
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
 \openout3 = `Thesis.mw'.
 
 
@@ -3324,13 +3462,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [23] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
-\openout3 = `Thesis.mw'.
 
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
+Overfull \hbox (12.52643pt too wide) in paragraph at lines 129--130
+\OT1/cmr/m/n/12 of al-go-rithms for im-age seg-men-ta-tion, edge de-tec-tion, and noise re-moval. OpenCV
+ []
 
 
 
@@ -3344,14 +3479,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout3 = `Thesis.mw'.
 
 [24] (Thesis.mw)
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
 \openout3 = `Thesis.mw'.
 
 
@@ -3386,10 +3513,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [26] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
+\openout3 = `Thesis.mw'.
 
-Overfull \hbox (12.52643pt too wide) in paragraph at lines 129--130
-\OT1/cmr/m/n/12 of al-go-rithms for im-age seg-men-ta-tion, edge de-tec-tion, and noise re-moval. OpenCV
- []
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
 
 
 
@@ -3423,6 +3553,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout3 = `Thesis.mw'.
 
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
 
 
 
@@ -3437,64 +3571,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [29] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-\openout3 = `Thesis.mw'.
-
-[30] (Thesis.mw)
-\openout3 = `Thesis.mw'.
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-\openout3 = `Thesis.mw'.
-
-[31] (Thesis.mw)
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-\openout3 = `Thesis.mw'.
-
-[32] (Thesis.mw)
-\openout3 = `Thesis.mw'.
-
 )
 
 
@@ -3506,7 +3582,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout3 = `Thesis.mw'.
 
-[33] (Thesis.mw)
+[30] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
 \openout3 = `Thesis.mw'.
@@ -3525,7 +3601,7 @@ Chapter 4.
 
 \openout3 = `Thesis.mw'.
 
-[34
+[31
 
 
 
@@ -3541,11 +3617,70 @@ Chapter 4.
 
 \openout3 = `Thesis.mw'.
 
-<3_Chapters/4_Chapter_Design/Figures/system_design.pdf, id=627, 308.65407pt x 147.61913pt>
+<3_Chapters/4_Chapter_Design/Figures/system_design.pdf, id=649, 308.65407pt x 147.61913pt>
 File: 3_Chapters/4_Chapter_Design/Figures/system_design.pdf Graphic file (type pdf)
 <use 3_Chapters/4_Chapter_Design/Figures/system_design.pdf>
 Package pdftex.def Info: 3_Chapters/4_Chapter_Design/Figures/system_design.pdf  used on input line 22.
 (pdftex.def)             Requested size: 308.6533pt x 147.61876pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout3 = `Thesis.mw'.
+
+[32] (Thesis.mw)
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout3 = `Thesis.mw'.
+
+[33 <./3_Chapters/4_Chapter_Design/Figures/system_design.pdf>] (Thesis.mw)
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+<3_Chapters/4_Chapter_Design/Figures/POS_Network.pdf, id=665, 187.88263pt x 68.85573pt>
+File: 3_Chapters/4_Chapter_Design/Figures/POS_Network.pdf Graphic file (type pdf)
+<use 3_Chapters/4_Chapter_Design/Figures/POS_Network.pdf>
+Package pdftex.def Info: 3_Chapters/4_Chapter_Design/Figures/POS_Network.pdf  used on input line 42.
+(pdftex.def)             Requested size: 225.45801pt x 82.62643pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout3 = `Thesis.mw'.
+
+[34 <./3_Chapters/4_Chapter_Design/Figures/POS_Network.pdf>] (Thesis.mw)
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
 
 
 
@@ -3564,65 +3699,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout3 = `Thesis.mw'.
 
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-\openout3 = `Thesis.mw'.
-
-[36 <./3_Chapters/4_Chapter_Design/Figures/system_design.pdf>] (Thesis.mw)
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-<3_Chapters/4_Chapter_Design/Figures/POS_Network.pdf, id=642, 187.88263pt x 68.85573pt>
-File: 3_Chapters/4_Chapter_Design/Figures/POS_Network.pdf Graphic file (type pdf)
-<use 3_Chapters/4_Chapter_Design/Figures/POS_Network.pdf>
-Package pdftex.def Info: 3_Chapters/4_Chapter_Design/Figures/POS_Network.pdf  used on input line 42.
-(pdftex.def)             Requested size: 225.45801pt x 82.62643pt.
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-\openout3 = `Thesis.mw'.
-
-[37 <./3_Chapters/4_Chapter_Design/Figures/POS_Network.pdf>] (Thesis.mw)
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-\openout3 = `Thesis.mw'.
-
-[38] (Thesis.mw)
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
-\openout3 = `Thesis.mw'.
-
 )
 
 
@@ -3634,7 +3710,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout3 = `Thesis.mw'.
 
-[39] (Thesis.mw)
+[36] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
 \openout3 = `Thesis.mw'.
@@ -3649,7 +3725,7 @@ Chapter 5.
 
 \openout3 = `Thesis.mw'.
 
-[40
+[37
 
 
 
@@ -3669,12 +3745,12 @@ Chapter 5.
 
 \openout3 = `Thesis.mw'.
 
-<3_Chapters/5_Chapter_Results/Figures/r_vs_N_f=0_0005_P=90.pdf, id=666, 578.16pt x 289.08pt>
+<3_Chapters/5_Chapter_Results/Figures/r_vs_N_f=0_0005_P=90.pdf, id=688, 578.16pt x 289.08pt>
 File: 3_Chapters/5_Chapter_Results/Figures/r_vs_N_f=0_0005_P=90.pdf Graphic file (type pdf)
 <use 3_Chapters/5_Chapter_Results/Figures/r_vs_N_f=0_0005_P=90.pdf>
 Package pdftex.def Info: 3_Chapters/5_Chapter_Results/Figures/r_vs_N_f=0_0005_P=90.pdf  used on input line 27.
 (pdftex.def)             Requested size: 344.005pt x 172.00252pt.
-<3_Chapters/5_Chapter_Results/Figures/Line_Signals.pdf, id=668, 284.06125pt x 128.48pt>
+<3_Chapters/5_Chapter_Results/Figures/Line_Signals.pdf, id=690, 284.06125pt x 128.48pt>
 File: 3_Chapters/5_Chapter_Results/Figures/Line_Signals.pdf Graphic file (type pdf)
 <use 3_Chapters/5_Chapter_Results/Figures/Line_Signals.pdf>
 Package pdftex.def Info: 3_Chapters/5_Chapter_Results/Figures/Line_Signals.pdf  used on input line 36.
@@ -3690,7 +3766,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout3 = `Thesis.mw'.
 
-[41] (Thesis.mw)
+[38] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
 \openout3 = `Thesis.mw'.
@@ -3708,7 +3784,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout3 = `Thesis.mw'.
 
-[42 <./3_Chapters/5_Chapter_Results/Figures/r_vs_N_f=0_0005_P=90.pdf> <./3_Chapters/5_Chapter_Results/Figures/Line_Signals.pdf
+[39 <./3_Chapters/5_Chapter_Results/Figures/r_vs_N_f=0_0005_P=90.pdf> <./3_Chapters/5_Chapter_Results/Figures/Line_Signals.pdf
 
 pdfTeX warning: pdflatex (file ./3_Chapters/5_Chapter_Results/Figures/Line_Signals.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >] (Thesis.mw)
@@ -3718,7 +3794,7 @@ pdfTeX warning: pdflatex (file ./3_Chapters/5_Chapter_Results/Figures/Line_Signa
 
 \openout3 = `Thesis.mw'.
 
-<3_Chapters/5_Chapter_Results/Figures/UCT.pdf, id=711, 128.55975pt x 130.49915pt>
+<3_Chapters/5_Chapter_Results/Figures/UCT.pdf, id=734, 128.55975pt x 130.49915pt>
 File: 3_Chapters/5_Chapter_Results/Figures/UCT.pdf Graphic file (type pdf)
 <use 3_Chapters/5_Chapter_Results/Figures/UCT.pdf>
 Package pdftex.def Info: 3_Chapters/5_Chapter_Results/Figures/UCT.pdf  used on input line 50.
@@ -3728,12 +3804,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-<3_Chapters/5_Chapter_Results/Figures/UCT.jpg, id=712, 61.6704pt x 62.634pt>
+<3_Chapters/5_Chapter_Results/Figures/UCT.jpg, id=735, 61.6704pt x 62.634pt>
 File: 3_Chapters/5_Chapter_Results/Figures/UCT.jpg Graphic file (type jpg)
 <use 3_Chapters/5_Chapter_Results/Figures/UCT.jpg>
 Package pdftex.def Info: 3_Chapters/5_Chapter_Results/Figures/UCT.jpg  used on input line 60.
 (pdftex.def)             Requested size: 129.00269pt x 131.04784pt.
-<3_Chapters/5_Chapter_Results/Figures/UCT.png, id=713, 128.48pt x 130.4875pt>
+<3_Chapters/5_Chapter_Results/Figures/UCT.png, id=736, 128.48pt x 130.4875pt>
 File: 3_Chapters/5_Chapter_Results/Figures/UCT.png Graphic file (type png)
 <use 3_Chapters/5_Chapter_Results/Figures/UCT.png>
 Package pdftex.def Info: 3_Chapters/5_Chapter_Results/Figures/UCT.png  used on input line 65.
@@ -3753,7 +3829,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 \openout3 = `Thesis.mw'.
 
-[43 <./3_Chapters/5_Chapter_Results/Figures/UCT.pdf> <./3_Chapters/5_Chapter_Results/Figures/UCT.jpg> <./3_Chapters/5_Chapter_Results/Figures/UCT.png>] (Thesis.mw)
+[40 <./3_Chapters/5_Chapter_Results/Figures/UCT.pdf> <./3_Chapters/5_Chapter_Results/Figures/UCT.jpg> <./3_Chapters/5_Chapter_Results/Figures/UCT.png>] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
 \openout2 = `3_Chapters/6_Chapter_Conclusions/Conclusions.aux'.
@@ -3764,7 +3840,7 @@ Chapter 6.
 
 \openout3 = `Thesis.mw'.
 
-[44
+[41
 
 
 
@@ -3792,7 +3868,7 @@ Chapter 6.
 
 \openout3 = `Thesis.mw'.
 
-[45
+[42
 
 
 
@@ -3802,6 +3878,63 @@ Chapter 6.
 
 \openout3 = `Thesis.mw'.
 
+\openout3 = `Thesis.mw'.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout3 = `Thesis.mw'.
+
+[43] (Thesis.mw)
+\openout3 = `Thesis.mw'.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout3 = `Thesis.mw'.
+
+[44] (Thesis.mw)
+\openout3 = `Thesis.mw'.
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 206--210
+[]\OT1/cmr/m/n/12 ``Big bang - warm kitty, soft kitty (shel-don's lul-laby sick song) in-
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 206--210
+\OT1/cmr/m/n/12 stru-men-tal ver-sion lyrics | metrolyrics,'' [][]$http : / / www . metrolyrics . com /
+ []
+
+
+Overfull \hbox (34.76283pt too wide) in paragraph at lines 206--210
+\OT1/cmr/m/n/12 warm-[]kitty-[]soft-[]kitty-[]sheldons-[]lullaby-[]sick-[]song-[]instrumental-[]version-[]lyrics-[]big-[]bang .
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout3 = `Thesis.mw'.
+
+[45] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
 
@@ -3832,22 +3965,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [47] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
-
-Underfull \hbox (badness 2753) in paragraph at lines 183--187
-[]\OT1/cmr/m/n/12 ``Big bang - warm kitty, soft kitty (shel-don's lul-laby sick song) in-
- []
-
-
-Underfull \hbox (badness 4660) in paragraph at lines 183--187
-\OT1/cmr/m/n/12 stru-men-tal ver-sion lyrics | metrolyrics,'' [][]$http : / / www . metrolyrics . com /
- []
-
-
-Overfull \hbox (34.76283pt too wide) in paragraph at lines 183--187
-\OT1/cmr/m/n/12 warm-[]kitty-[]soft-[]kitty-[]sheldons-[]lullaby-[]sick-[]song-[]instrumental-[]version-[]lyrics-[]big-[]bang .
- []
-
-
+)
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3861,41 +3979,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [48] (Thesis.mw)
 \openout3 = `Thesis.mw'.
 
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-\openout3 = `Thesis.mw'.
-
-[49] (Thesis.mw)
-\openout3 = `Thesis.mw'.
-
-)
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-\openout3 = `Thesis.mw'.
-
-[50] (Thesis.mw)
-\openout3 = `Thesis.mw'.
-
  (5_Appendices/Appendix_A/Appendix_A.tex
 Appendix A.
 
 
 \openout3 = `Thesis.mw'.
 
-[51
+[49
 
 
 ] (Thesis.mw)
@@ -3911,7 +4001,7 @@ Appendix A.
 
 ) (5_Appendices/Appendix_B/Appendix_B.tex
 Appendix B.
-<5_Appendices/Appendix_B/Figures/Thesis_Defence.png, id=819, 391.4625pt x 277.78781pt>
+<5_Appendices/Appendix_B/Figures/Thesis_Defence.png, id=856, 391.4625pt x 277.78781pt>
 File: 5_Appendices/Appendix_B/Figures/Thesis_Defence.png Graphic file (type png)
 <use 5_Appendices/Appendix_B/Figures/Thesis_Defence.png>
 Package pdftex.def Info: 5_Appendices/Appendix_B/Figures/Thesis_Defence.png  used on input line 7.
@@ -3920,7 +4010,7 @@ Package pdftex.def Info: 5_Appendices/Appendix_B/Figures/Thesis_Defence.png  use
 
 \openout3 = `Thesis.mw'.
 
-[52
+[50
 
 
  <./5_Appendices/Appendix_B/Figures/Thesis_Defence.png>] (Thesis.mw)
@@ -3996,6 +4086,46 @@ Package pdftex.def Info: 5_Appendices/Appendix_B/Figures/Thesis_Defence.png  use
 \openout3 = `Thesis.mw'.
 
 ) (3_Chapters/2_Chapter_LiteratureReview/LiteratureReview.aux
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
+\openout3 = `Thesis.mw'.
+
 \openout3 = `Thesis.mw'.
 
 \openout3 = `Thesis.mw'.
@@ -4350,14 +4480,10 @@ Package pdftex.def Info: 5_Appendices/Appendix_B/Figures/Thesis_Defence.png  use
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 \openout3 = `Thesis.out'.
 
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: B6761F1DD39E7BA2FCDCC887751BCFDA;8717.
+(rerunfilecheck)             Checksum: 6DD939AAB25E4FFEDFC68A5D5EE8AFDF;9782.
 \openout3 = `Thesis.glo'.
 
 \openout3 = `Thesis.acn'.
@@ -4376,17 +4502,17 @@ Package rerunfilecheck Info: File `Thesis.out' has not changed.
 
  ) 
 Here is how much of TeX's memory you used:
- 53323 strings out of 468133
- 1246869 string characters out of 5430228
- 1699164 words of memory out of 5000000
- 79280 multiletter control sequences out of 15000+600000
+ 53510 strings out of 468133
+ 1249097 string characters out of 5430228
+ 1704275 words of memory out of 5000000
+ 79332 multiletter control sequences out of 15000+600000
  635542 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,12n,136p,2582b,1179s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Dimpho\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Dimpho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Dimpho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Dimpho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Dimpho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Dimpho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dimpho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Dimpho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Dimpho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Dimpho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Thesis.pdf (62 pages, 1549772 bytes).
+Output written on Thesis.pdf (60 pages, 1551044 bytes).
 PDF statistics:
- 914 PDF objects out of 1000 (max. 8388607)
- 207 named destinations out of 1000 (max. 500000)
- 537 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 957 PDF objects out of 1000 (max. 8388607)
+ 223 named destinations out of 1000 (max. 500000)
+ 593 words of extra memory for PDF output out of 10000 (max. 10000000)
 

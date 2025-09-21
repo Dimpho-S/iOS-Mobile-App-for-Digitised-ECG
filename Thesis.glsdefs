@@ -166,6 +166,34 @@ parent={},%
 %
 }%
 
+\glsdefs@newdocentry{ROI}%
+{%
+name={ROI},%
+sort={ROI},%
+type={main},%
+first={ROI},%
+firstplural={ROIs},%
+text={ROI},%
+plural={ROIs},%
+description={Region of Interest},%
+descriptionplural={Region of Interest},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
 \glsdefs@newdocentry{lol}%
 {%
 name={\acronymfont {\glsentryshort {lol}}},%

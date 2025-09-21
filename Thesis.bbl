@@ -139,6 +139,11 @@ A.~Sinha, T.~Aljrees, S.~K. Pandey, A.~Kumar, P.~Banerjee, B.~Kumar, K.~U.
   [Online]. Available: \url{https://api.semanticscholar.org/CorpusID:266381207}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Cuong2024}
+C.~V. Nguyen, H.~X. Nguyen, D.~Anh, and C.~Do, ``Vindigitizer: An image
+  processing approach to digitize paper ecg records,'' in \emph{2024 Computing
+  in Cardiology Conference}, 2024.
+
 \bibitem{Mishra2021}
 \BIBentryALTinterwordspacing
 S.~Mishra, G.~Khatwani, R.~Patil, D.~Sapariya, V.~Shah, D.~Parmar, S.~Dinesh,
@@ -148,20 +153,38 @@ S.~Mishra, G.~Khatwani, R.~Patil, D.~Sapariya, V.~Shah, D.~Parmar, S.~Dinesh,
   \url{https://doi.org/10.1007/s40846-021-00632-0}
 \BIBentrySTDinterwordspacing
 
-\bibitem{LI2020104077}
+\bibitem{Yang2022LABNetLC}
 \BIBentryALTinterwordspacing
-Y.~Li, Q.~Qu, M.~Wang, L.~Yu, J.~Wang, L.~Shen, and K.~He, ``Deep learning for
-  digitizing highly noisy paper-based ecg records,'' \emph{Computers in Biology
-  and Medicine}, vol. 127, p. 104077, 2020. [Online]. Available:
-  \url{https://www.sciencedirect.com/science/article/pii/S001048252030408X}
+H.-T. Yang, G.~Nan, M.~Lin, F.~Chao, Y.~Shen, K.~Li, and R.~Ji, ``Lab-net: Lab
+  color-space oriented lightweight network for shadow removal,'' \emph{ArXiv},
+  vol. abs/2208.13039, 2022. [Online]. Available:
+  \url{https://api.semanticscholar.org/CorpusID:251903420}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Tun2017AnalysisOC}
+\bibitem{Wang2017StackedCG}
 \BIBentryALTinterwordspacing
-H.~Tun, W.~K. Moe, and Z.~M. Naing, ``Analysis on conversion process from paper
-  record ecg to computer based ecg,'' \emph{Applied Bionics and Biomechanics},
-  vol.~1, pp. 69--81, sep 2017. [Online]. Available:
-  \url{https://api.semanticscholar.org/CorpusID:196033483}
+J.~Wang, X.~Li, L.~Hui, and J.~Yang, ``Stacked conditional generative
+  adversarial networks for jointly learning shadow detection and shadow
+  removal,'' \emph{2018 IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition}, pp. 1788--1797, 2017. [Online]. Available:
+  \url{https://api.semanticscholar.org/CorpusID:413731}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Chauhan2018PerformanceAO}
+\BIBentryALTinterwordspacing
+N.~Chauhan and B.-J. Choi, ``Performance analysis of denoising algorithms for
+  human brain image,'' \emph{Int. J. Fuzzy Log. Intell. Syst.}, vol.~18, pp.
+  175--181, 2018. [Online]. Available:
+  \url{https://api.semanticscholar.org/CorpusID:69356704}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Ganesh2021CombiningOC}
+\BIBentryALTinterwordspacing
+S.~Ganesh, P.~T. Bhatti, M.~Alkhalaf, S.~Gupta, A.~J. Shah, and
+  S.~Tridandapani, ``Combining optical character recognition with paper ecg
+  digitization,'' \emph{IEEE Journal of Translational Engineering in Health and
+  Medicine}, vol.~9, 2021. [Online]. Available:
+  \url{https://api.semanticscholar.org/CorpusID:235755938}
 \BIBentrySTDinterwordspacing
 
 \bibitem{InkScape}
@@ -195,6 +218,22 @@ B.~Paltridge, ``Thesis and dissertation writing: an examination of published
   advice and actual practice,'' \emph{English for Specific Purposes}, vol.~21,
   no.~2, pp. 125--143, 2002.
 
+\bibitem{LI2020104077}
+\BIBentryALTinterwordspacing
+Y.~Li, Q.~Qu, M.~Wang, L.~Yu, J.~Wang, L.~Shen, and K.~He, ``Deep learning for
+  digitizing highly noisy paper-based ecg records,'' \emph{Computers in Biology
+  and Medicine}, vol. 127, p. 104077, 2020. [Online]. Available:
+  \url{https://www.sciencedirect.com/science/article/pii/S001048252030408X}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Tun2017AnalysisOC}
+\BIBentryALTinterwordspacing
+H.~Tun, W.~K. Moe, and Z.~M. Naing, ``Analysis on conversion process from paper
+  record ecg to computer based ecg,'' \emph{Applied Bionics and Biomechanics},
+  vol.~1, pp. 69--81, sep 2017. [Online]. Available:
+  \url{https://api.semanticscholar.org/CorpusID:196033483}
+\BIBentrySTDinterwordspacing
+
 \bibitem{MartinezPérez2014MobileAppsCardiology}
 B.~Martínez-Pérez, I.~de~la Torre-Díez, M.~López-Coronado, and
   B.~Sainz-De-Abajo, ``Mobile apps in cardiology: review,'' \emph{JMIR mHealth
@@ -207,6 +246,24 @@ U.~Utsha \emph{et~al.}, ``A smartphone application for beat-by-beat ecg signal
   article focused on a smart-health app for ECG visualization and monitoring.
   [Online]. Available:
   \url{https://www.sciencedirect.com/science/article/abs/pii/S2352648324000011}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Fatema2022ARF}
+\BIBentryALTinterwordspacing
+K.~Fatema, S.~Montaha, M.~A.~H. Rony, S.~Azam, M.~Z. Hasan, and M.~Jonkman, ``A
+  robust framework combining image processing and deep learning hybrid model to
+  classify cardiovascular diseases using a limited number of paper-based
+  complex ecg images,'' \emph{Biomedicines}, vol.~10, 2022. [Online].
+  Available: \url{https://api.semanticscholar.org/CorpusID:253427401}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Shivashankara2023ECGImageKitAS}
+\BIBentryALTinterwordspacing
+K.~K. Shivashankara, Deepanshi, A.~M. Shervedani, G.~D. Clifford, M.~A. Reyna,
+  and R.~Sameni, ``Ecg-image-kit: a synthetic image generation toolbox to
+  facilitate deep learning-based electrocardiogram digitization,''
+  \emph{Physiological Measurement}, vol.~45, 2023. [Online]. Available:
+  \url{https://api.semanticscholar.org/CorpusID:259342491}
 \BIBentrySTDinterwordspacing
 
 \bibitem{interactiveBiology2025}
